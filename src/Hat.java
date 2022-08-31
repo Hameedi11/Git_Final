@@ -5,4 +5,6 @@ public class Hat {
     // Hat is good for sun burn
 
     // updating the Hat class
+
+    // Hat class needs final update
 }
